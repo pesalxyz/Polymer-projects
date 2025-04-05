@@ -1,1 +1,1 @@
-Do not Copyright
+Copyright "All rights reserved"
